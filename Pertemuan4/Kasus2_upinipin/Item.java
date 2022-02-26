@@ -1,7 +1,7 @@
 package Kasus2_upinipin;
 
 /**
- * @modif Cintia
+ * @modification Cintia
  * @since 25-02-2022
  */
 
