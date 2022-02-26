@@ -13,7 +13,7 @@ public class Item {
     }
     
     public Item(String name) {
-        this.name = new Item().name;
+        this.name = new Item().name;    //pengisian agar output yang di hasilkan adalah Ipin
         System.out.println(this.name);
     }
 }
