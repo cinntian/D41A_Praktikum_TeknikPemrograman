@@ -1,7 +1,7 @@
 package Kasus1_barang;
 
 /**
- * @modif Cintia
+ * @modification Cintia
  * @since 25-02-2022
  */
 
